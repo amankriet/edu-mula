@@ -1,0 +1,75 @@
+*
+{
+margin:0px auto;
+}
+
+#outer
+{
+height:900px;
+width:100%;
+background:#ccc;
+margin:0px auto;
+}
+#header
+{
+height:80px;
+width:100%;
+background:black;
+}
+#logo
+{
+height:auto;
+width:auto;
+ font-family: 'Allerta Stencil';font-size: 22px;
+float:left;
+color:Red;
+margin:13px;
+padding-left:163px;
+}
+#logo1
+{
+height:auto;
+width:auto;
+  font-family: 'Sofia';font-size: 20px;
+float:left;
+color:Yellow;
+margin:10px;
+padding-left:0px;
+}
+#menu1
+{
+float:right;
+list-style-type: none;
+background:black;
+height:55px;
+PADDING-TOP:20PX;
+}
+li
+{
+float:left;
+margin-left:25px;
+margin-right:8px;
+font-size:17px;
+color:white;
+border:50px;
+padding:1px;
+font-family:"Comic Sans MS", cursive, sans-serif;
+
+
+}
+
+#content
+{
+height:800px;
+width:1500px;
+background-image:url('back.jpg');
+background-size:cover;
+}
+#slider
+{
+padding-top:0px;
+height:650px;
+width:1500px;
+
+margin:10px auto;
+}
